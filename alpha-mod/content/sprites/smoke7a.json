@@ -1,0 +1,19 @@
+{
+    "basepath" : "res/smoke/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "smoke7a"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "smoke7a" }
+    ]
+}

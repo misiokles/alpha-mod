@@ -1,0 +1,29 @@
+{
+    "basepath" : "res/trees/",
+    "sequences" :
+    [
+        {
+            // Index of group, zero-based
+            "group" : 1,
+ 
+            // List of files in this group
+            "frames" :
+            [
+                "AVLPNTR6.png"  
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        {
+            // Group of this image. Optional, default = 0
+            "group" : 0,
+            // Imdex of the image in group
+            "frame" : 0,
+            // Filename for this frame
+            "file" : "AVLPNTR6.png"
+        }
+    ]
+}

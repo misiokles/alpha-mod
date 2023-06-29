@@ -1,0 +1,23 @@
+{
+    "basepath" : "res/waterfall/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "watrfll0", "watrfll1", "watrfll2", "watrfll3", "watrfll4"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "watrfll0" },
+		{ "group" : 0, "frame" : 1, "file" : "watrfll1" },
+		{ "group" : 0, "frame" : 2, "file" : "watrfll2" },
+		{ "group" : 0, "frame" : 3, "file" : "watrfll3" },
+		{ "group" : 0, "frame" : 4, "file" : "watrfll4" }
+    ]
+}

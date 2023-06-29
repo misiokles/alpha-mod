@@ -1,0 +1,23 @@
+{
+"aowhale" : {
+	"name" : "Waleh",
+	"handler":"static",
+		"types" : {
+			"aowhale": {
+			"zIndex": 100,
+//			"tags":[ "water" ],
+				"templates" : {				
+					"whale" : { "animation" : "whale", "mask" : [ "VV", "VB" ] 
+//					"allowedTerrains": [ "water" ] 
+					}
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	

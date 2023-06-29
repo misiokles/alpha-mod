@@ -1,0 +1,52 @@
+{
+    "basepath" : "res/boom/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "boooom00.eya", "boooom01.eya", "boooom02.eya", "boooom03.eya", "boooom04.eya", "boooom05.eya", "boooom06.eya", "boooom07.eya", "boooom08.eya", "boooom09.eya",
+				"boooom10.eya", "boooom11.eya", "boooom12.eya", "boooom13.eya", "boooom14.eya", "boooom15.eya", "boooom16.eya", "boooom17.eya", "boooom18.eya", "boooom19.eya",
+				"boooom20.eya", "boooom21.eya", "boooom22.eya", "boooom23.eya", "boooom24.eya", "boooom25.eya", "boooom26.eya", "boooom27.eya", "boooom28.eya", "boooom29.eya",
+				"boooom30.eya"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "boooom00.eya" },
+		{ "group" : 0, "frame" : 1, "file" : "boooom01.eya" },
+		{ "group" : 0, "frame" : 2, "file" : "boooom02.eya" },
+		{ "group" : 0, "frame" : 3, "file" : "boooom03.eya" },
+		{ "group" : 0, "frame" : 4, "file" : "boooom04.eya" },
+		{ "group" : 0, "frame" : 5, "file" : "boooom05.eya" },
+		{ "group" : 0, "frame" : 6, "file" : "boooom06.eya" },
+		{ "group" : 0, "frame" : 7, "file" : "boooom07.eya" },
+		{ "group" : 0, "frame" : 8, "file" : "boooom08.eya" },
+		{ "group" : 0, "frame" : 9, "file" : "boooom09.eya" },
+		{ "group" : 0, "frame" : 10, "file" : "boooom10.eya" },
+		{ "group" : 0, "frame" : 11, "file" : "boooom11.eya" },
+		{ "group" : 0, "frame" : 12, "file" : "boooom12.eya" },
+		{ "group" : 0, "frame" : 13, "file" : "boooom13.eya" },
+		{ "group" : 0, "frame" : 14, "file" : "boooom14.eya" },
+		{ "group" : 0, "frame" : 15, "file" : "boooom15.eya" },
+		{ "group" : 0, "frame" : 16, "file" : "boooom16.eya" },
+		{ "group" : 0, "frame" : 17, "file" : "boooom17.eya" },
+		{ "group" : 0, "frame" : 18, "file" : "boooom18.eya" },
+		{ "group" : 0, "frame" : 19, "file" : "boooom19.eya" },
+		{ "group" : 0, "frame" : 20, "file" : "boooom20.eya" },
+		{ "group" : 0, "frame" : 21, "file" : "boooom21.eya" },
+		{ "group" : 0, "frame" : 22, "file" : "boooom22.eya" },
+		{ "group" : 0, "frame" : 23, "file" : "boooom23.eya" },
+		{ "group" : 0, "frame" : 24, "file" : "boooom24.eya" },
+		{ "group" : 0, "frame" : 25, "file" : "boooom25.eya" },
+		{ "group" : 0, "frame" : 26, "file" : "boooom26.eya" },
+		{ "group" : 0, "frame" : 27, "file" : "boooom27.eya" },
+		{ "group" : 0, "frame" : 28, "file" : "boooom28.eya" },
+		{ "group" : 0, "frame" : 29, "file" : "boooom29.eya" },
+		{ "group" : 0, "frame" : 29, "file" : "boooom30.eya" }
+    ]
+}

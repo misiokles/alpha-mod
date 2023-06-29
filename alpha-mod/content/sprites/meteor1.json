@@ -1,0 +1,55 @@
+{
+    "basepath" : "res/meteors/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "meteor00.eya", "meteor01.eya", "meteor02.eya", "meteor03.eya", "meteor04.eya", "meteor05.eya", "meteor06.eya", "meteor07.eya", "meteor08.eya", "meteor09.eya",
+				"meteor10.eya", "meteor11.eya", "meteor12.eya", "meteor13.eya", "meteor14.eya", "meteor15.eya", "meteor16.eya", "meteor17.eya", "meteor18.eya", "meteor19.eya",
+				"meteor20.eya", "meteor21.eya", "meteor22.eya", "meteor23.eya", "meteor24.eya", "meteor25.eya", "meteor26.eya", "meteor27.eya", "meteor28.eya", "meteor29.eya",
+				"meteor30.eya", "meteor31.eya", "meteor32.eya", "meteor33.eya", "meteor34.eya"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "meteor00.eya" },
+		{ "group" : 0, "frame" : 1, "file" : "meteor01.eya" },
+		{ "group" : 0, "frame" : 2, "file" : "meteor02.eya" },
+		{ "group" : 0, "frame" : 3, "file" : "meteor03.eya" },
+		{ "group" : 0, "frame" : 4, "file" : "meteor04.eya" },
+		{ "group" : 0, "frame" : 5, "file" : "meteor05.eya" },
+		{ "group" : 0, "frame" : 6, "file" : "meteor06.eya" },
+		{ "group" : 0, "frame" : 7, "file" : "meteor07.eya" },
+		{ "group" : 0, "frame" : 8, "file" : "meteor08.eya" },
+		{ "group" : 0, "frame" : 9, "file" : "meteor09.eya" },
+		{ "group" : 0, "frame" : 10, "file" : "meteor10.eya" },
+		{ "group" : 0, "frame" : 11, "file" : "meteor11.eya" },
+		{ "group" : 0, "frame" : 12, "file" : "meteor12.eya" },
+		{ "group" : 0, "frame" : 13, "file" : "meteor13.eya" },
+		{ "group" : 0, "frame" : 14, "file" : "meteor14.eya" },
+		{ "group" : 0, "frame" : 15, "file" : "meteor15.eya" },
+		{ "group" : 0, "frame" : 16, "file" : "meteor16.eya" },
+		{ "group" : 0, "frame" : 17, "file" : "meteor17.eya" },
+		{ "group" : 0, "frame" : 18, "file" : "meteor18.eya" },
+		{ "group" : 0, "frame" : 19, "file" : "meteor19.eya" },
+		{ "group" : 0, "frame" : 20, "file" : "meteor20.eya" },
+		{ "group" : 0, "frame" : 21, "file" : "meteor21.eya" },
+		{ "group" : 0, "frame" : 22, "file" : "meteor22.eya" },
+		{ "group" : 0, "frame" : 23, "file" : "meteor23.eya" },
+		{ "group" : 0, "frame" : 24, "file" : "meteor24.eya" },
+		{ "group" : 0, "frame" : 25, "file" : "meteor25.eya" },
+		{ "group" : 0, "frame" : 26, "file" : "meteor26.eya" },
+		{ "group" : 0, "frame" : 27, "file" : "meteor27.eya" },
+		{ "group" : 0, "frame" : 28, "file" : "meteor28.eya" },
+		{ "group" : 0, "frame" : 29, "file" : "meteor29.eya" },
+		{ "group" : 0, "frame" : 30, "file" : "meteor30.eya" },
+		{ "group" : 0, "frame" : 31, "file" : "meteor31.eya" },
+		{ "group" : 0, "frame" : 32, "file" : "meteor32.eya" },
+		{ "group" : 0, "frame" : 33, "file" : "meteor33.eya" }
+    ]
+}

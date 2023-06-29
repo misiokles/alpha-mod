@@ -1,0 +1,62 @@
+{
+    "basepath" : "res/meteors/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "meteos00.eya", "meteos01.eya", "meteos02.eya", "meteos03.eya", "meteos04.eya", "meteos05.eya", "meteos06.eya", "meteos07.eya", "meteos08.eya", "meteos09.eya",
+				"meteos10.eya", "meteos11.eya", "meteos12.eya", "meteos13.eya", "meteos14.eya", "meteos15.eya", "meteos16.eya", "meteos17.eya", "meteos18.eya", "meteos19.eya",
+				"meteos20.eya", "meteos21.eya", "meteos22.eya", "meteos23.eya", "meteos24.eya", "meteos25.eya", "meteos26.eya", "meteos27.eya", "meteos28.eya", "meteos29.eya",
+				"meteos30.eya", "meteos31.eya", "meteos32.eya", "meteos33.eya", "meteos34.eya", "meteos35.eya", "meteos36.eya", "meteos37.eya", "meteos38.eya", "meteos39.eya",
+				"meteos40.eya"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "meteos00.eya" },
+		{ "group" : 0, "frame" : 1, "file" : "meteos01.eya" },
+		{ "group" : 0, "frame" : 2, "file" : "meteos02.eya" },
+		{ "group" : 0, "frame" : 3, "file" : "meteos03.eya" },
+		{ "group" : 0, "frame" : 4, "file" : "meteos04.eya" },
+		{ "group" : 0, "frame" : 5, "file" : "meteos05.eya" },
+		{ "group" : 0, "frame" : 6, "file" : "meteos06.eya" },
+		{ "group" : 0, "frame" : 7, "file" : "meteos07.eya" },
+		{ "group" : 0, "frame" : 8, "file" : "meteos08.eya" },
+		{ "group" : 0, "frame" : 9, "file" : "meteos09.eya" },
+		{ "group" : 0, "frame" : 10, "file" : "meteos10.eya" },
+		{ "group" : 0, "frame" : 11, "file" : "meteos11.eya" },
+		{ "group" : 0, "frame" : 12, "file" : "meteos12.eya" },
+		{ "group" : 0, "frame" : 13, "file" : "meteos13.eya" },
+		{ "group" : 0, "frame" : 14, "file" : "meteos14.eya" },
+		{ "group" : 0, "frame" : 15, "file" : "meteos15.eya" },
+		{ "group" : 0, "frame" : 16, "file" : "meteos16.eya" },
+		{ "group" : 0, "frame" : 17, "file" : "meteos17.eya" },
+		{ "group" : 0, "frame" : 18, "file" : "meteos18.eya" },
+		{ "group" : 0, "frame" : 19, "file" : "meteos19.eya" },
+		{ "group" : 0, "frame" : 20, "file" : "meteos20.eya" },
+		{ "group" : 0, "frame" : 21, "file" : "meteos21.eya" },
+		{ "group" : 0, "frame" : 22, "file" : "meteos22.eya" },
+		{ "group" : 0, "frame" : 23, "file" : "meteos23.eya" },
+		{ "group" : 0, "frame" : 24, "file" : "meteos24.eya" },
+		{ "group" : 0, "frame" : 25, "file" : "meteos25.eya" },
+		{ "group" : 0, "frame" : 26, "file" : "meteos26.eya" },
+		{ "group" : 0, "frame" : 27, "file" : "meteos27.eya" },
+		{ "group" : 0, "frame" : 28, "file" : "meteos28.eya" },
+		{ "group" : 0, "frame" : 29, "file" : "meteos29.eya" },
+		{ "group" : 0, "frame" : 30, "file" : "meteos30.eya" },
+		{ "group" : 0, "frame" : 31, "file" : "meteos31.eya" },
+		{ "group" : 0, "frame" : 32, "file" : "meteos32.eya" },
+		{ "group" : 0, "frame" : 33, "file" : "meteos33.eya" },
+		{ "group" : 0, "frame" : 34, "file" : "meteos34.eya" },
+		{ "group" : 0, "frame" : 35, "file" : "meteos35.eya" },
+		{ "group" : 0, "frame" : 36, "file" : "meteos36.eya" },
+		{ "group" : 0, "frame" : 37, "file" : "meteos37.eya" },
+		{ "group" : 0, "frame" : 38, "file" : "meteos38.eya" },
+		{ "group" : 0, "frame" : 39, "file" : "meteos39.eya" }
+    ]
+}

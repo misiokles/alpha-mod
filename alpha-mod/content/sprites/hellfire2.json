@@ -1,0 +1,28 @@
+{
+    "basepath" : "res/hellfires/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "bfire20.eya", "bfire21.eya", "bfire22.eya", "bfire23.eya", "bfire24.eya", "bfire25.eya", "bfire26.eya", "bfire27.eya", "bfire28.eya", "bfire29.eya"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "bfire20.eya" },
+		{ "group" : 0, "frame" : 1, "file" : "bfire21.eya" },
+		{ "group" : 0, "frame" : 2, "file" : "bfire22.eya" },
+		{ "group" : 0, "frame" : 3, "file" : "bfire23.eya" },
+		{ "group" : 0, "frame" : 4, "file" : "bfire24.eya" },
+		{ "group" : 0, "frame" : 5, "file" : "bfire25.eya" },
+		{ "group" : 0, "frame" : 6, "file" : "bfire26.eya" },
+		{ "group" : 0, "frame" : 7, "file" : "bfire27.eya" },
+		{ "group" : 0, "frame" : 8, "file" : "bfire28.eya" },
+		{ "group" : 0, "frame" : 9, "file" : "bfire29.eya" }
+    ]
+}

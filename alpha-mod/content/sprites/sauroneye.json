@@ -1,0 +1,43 @@
+{
+    "basepath" : "res/sauroneye/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "saueye00.eya", "saueye01.eya", "saueye02.eya", "saueye03.eya", "saueye04.eya", "saueye05.eya", "saueye06.eya", "saueye07.eya", "saueye08.eya", "saueye09.eya",
+				"saueye10.eya", "saueye11.eya", "saueye12.eya", "saueye13.eya", "saueye14.eya", "saueye15.eya", "saueye16.eya", "saueye17.eya", "saueye18.eya", "saueye19.eya",
+				"saueye20.eya", "saueye21.eya", "saueye22.eya"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "saueye00.eya" },
+		{ "group" : 0, "frame" : 1, "file" : "saueye01.eya" },
+		{ "group" : 0, "frame" : 2, "file" : "saueye02.eya" },
+		{ "group" : 0, "frame" : 3, "file" : "saueye03.eya" },
+		{ "group" : 0, "frame" : 4, "file" : "saueye04.eya" },
+		{ "group" : 0, "frame" : 5, "file" : "saueye05.eya" },
+		{ "group" : 0, "frame" : 6, "file" : "saueye06.eya" },
+		{ "group" : 0, "frame" : 7, "file" : "saueye07.eya" },
+		{ "group" : 0, "frame" : 8, "file" : "saueye08.eya" },
+		{ "group" : 0, "frame" : 9, "file" : "saueye09.eya" },
+		{ "group" : 0, "frame" : 10, "file" : "saueye10.eya" },
+		{ "group" : 0, "frame" : 11, "file" : "saueye11.eya" },
+		{ "group" : 0, "frame" : 12, "file" : "saueye12.eya" },
+		{ "group" : 0, "frame" : 13, "file" : "saueye13.eya" },
+		{ "group" : 0, "frame" : 14, "file" : "saueye14.eya" },
+		{ "group" : 0, "frame" : 15, "file" : "saueye15.eya" },
+		{ "group" : 0, "frame" : 16, "file" : "saueye16.eya" },
+		{ "group" : 0, "frame" : 17, "file" : "saueye17.eya" },
+		{ "group" : 0, "frame" : 18, "file" : "saueye18.eya" },
+		{ "group" : 0, "frame" : 19, "file" : "saueye19.eya" },
+		{ "group" : 0, "frame" : 20, "file" : "saueye20.eya" },
+		{ "group" : 0, "frame" : 21, "file" : "saueye21.eya" },
+		{ "group" : 0, "frame" : 21, "file" : "saueye22.eya" }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+"smoke" : {
+	"name" : "Smoke",
+	"handler":"static",
+		"types" : {
+			"smoke": {
+			"zIndex": 100,
+				"templates" : {				
+					"smoke1" : { "animation" : "smoke1", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVBVVV", "VVVVVV", "VVVVVV" ] },
+					"smoke2" : { "animation" : "smoke2", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVBVVV", "VVVVVV", "VVVVVV" ] },
+					"smoke3" : { "animation" : "smoke3", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVBVVV", "VVVVVV", "VVVVVV" ] },
+					"smoke4a" : { "animation" : "smoke4a", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVBVVV", "VVVVVV", "VVVVVV" ] },
+					"smoke5a" : { "animation" : "smoke5a", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVBVVV", "VVVVVV", "VVVVVV" ] },
+					"smoke6a" : { "animation" : "smoke6a", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVBVVV", "VVVVVV", "VVVVVV" ] },
+					"smoke7a" : { "animation" : "smoke7a", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVBVVV", "VVVVVV", "VVVVVV" ] },
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	

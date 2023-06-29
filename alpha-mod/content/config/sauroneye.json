@@ -1,0 +1,21 @@
+{
+"sauronEye" : {
+	"name" : "Sauron Eye",
+	"handler":"static",
+		"types" : {
+			"sauronEye": {
+			"tags":[ "subterra"],
+			"zIndex": 100,
+				"templates" : {				
+					"snowStorm" : { "animation" : "sauroneye", "mask" : [ "VVV", "VVV", "VVV", "VVV", "VBV" ], "allowedTerrains": [ "subterra" ] }
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	

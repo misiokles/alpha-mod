@@ -1,0 +1,22 @@
+{
+"tornados" : {
+	"name" : "Tornado",
+	"handler":"static",
+		"types" : {
+			"tornados": {
+//			"tags":[ "lava", "dirt", "subterra" ],
+			"zIndex": 100,
+				"templates" : {				
+					"waterTornado" : { "animation" : "tornado1", "mask" : [ "VVV", "VVV", "VVV", "VVV", "VBV" ], "allowedTerrains": [ "water" ] },
+					"landTornado" : { "animation" : "tornado2", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVVVVV", "VVVVVV", "VVVBVV" ], "allowedTerrains": [ "dirt", "sand", "grass", "snow", "swamp", "rough", "lava" ] }
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	

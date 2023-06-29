@@ -1,0 +1,22 @@
+{
+"meteors" : {
+	"name" : "Meteors Storm",
+	"handler":"static",
+		"types" : {
+			"meteorsStorm": {
+			"tags":[ "lava", "snow"],
+			"zIndex": 150,
+				"templates" : {				
+					"snowStorm" : { "animation" : "meteor2", "mask" : [ "VVVVVVVV", "VVVVVVVV", "VVVVVVVV", "VVVVVVVV", "VVVVVVVV", "VVVVVVVB" ], "allowedTerrains": [ "snow" ] },
+					"lavaStorm" : { "animation" : "meteor1", "mask" : [ "VVVVVV", "VVVVVV", "VVVVVV", "VVVVVV", "VVVVVV", "VVVVVB" ], "allowedTerrains": [ "lava" ] }
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	

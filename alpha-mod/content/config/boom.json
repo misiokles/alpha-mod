@@ -1,0 +1,21 @@
+{
+"flameBurst" : {
+	"name" : "Flame Burst",
+	"handler":"static",
+		"types" : {
+			"flameBurst": {
+			"tags":[ "rough" ],
+			"zIndex": 100,
+				"templates" : {				
+					"flameBurst" : { "animation" : "boom", "mask" : [ "VVVV", "VVBV", "VVVV" ], "allowedTerrains": [ "rough" ] }
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	

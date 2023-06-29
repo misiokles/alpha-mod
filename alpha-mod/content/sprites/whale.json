@@ -1,0 +1,46 @@
+{
+    "basepath" : "res/whale/",
+    "sequences" :
+    [
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "whale-00", "whale-12", "whale-15", "whale-18", "whale-21", "whale-24", "whale-27", "whale-30", "whale-33", "whale-36",
+				"whale-39", "whale-42", "whale-45", "whale-48", "whale-51", "whale-54", "whale-57", "whale-60", "whale-63", "whale-66",
+				"whale-69", "whale-72", "whale-75", "whale-78", "whale-81", "whale-84"
+            ]
+        }
+    ],
+ 
+    // Allow overriding individual frames in file
+    "images" :
+    [
+        { "group" : 0, "frame" : 0, "file" : "whale-00" },
+		{ "group" : 0, "frame" : 1, "file" : "whale-12" },
+		{ "group" : 0, "frame" : 2, "file" : "whale-15" },
+		{ "group" : 0, "frame" : 3, "file" : "whale-18" },
+		{ "group" : 0, "frame" : 4, "file" : "whale-21" },
+		{ "group" : 0, "frame" : 5, "file" : "whale-24" },
+		{ "group" : 0, "frame" : 6, "file" : "whale-27" },
+		{ "group" : 0, "frame" : 7, "file" : "whale-30" },
+		{ "group" : 0, "frame" : 8, "file" : "whale-33" },
+		{ "group" : 0, "frame" : 9, "file" : "whale-36" },
+		{ "group" : 0, "frame" : 10, "file" : "whale-39" },
+		{ "group" : 0, "frame" : 11, "file" : "whale-42" },
+		{ "group" : 0, "frame" : 12, "file" : "whale-45" },
+		{ "group" : 0, "frame" : 13, "file" : "whale-48" },
+		{ "group" : 0, "frame" : 14, "file" : "whale-51" },
+		{ "group" : 0, "frame" : 15, "file" : "whale-54" },
+		{ "group" : 0, "frame" : 16, "file" : "whale-57" },
+		{ "group" : 0, "frame" : 17, "file" : "whale-60" },
+		{ "group" : 0, "frame" : 18, "file" : "whale-63" },
+		{ "group" : 0, "frame" : 19, "file" : "whale-66" },
+		{ "group" : 0, "frame" : 20, "file" : "whale-69" },
+		{ "group" : 0, "frame" : 21, "file" : "whale-72" },
+		{ "group" : 0, "frame" : 22, "file" : "whale-75" },
+		{ "group" : 0, "frame" : 23, "file" : "whale-78" },
+		{ "group" : 0, "frame" : 24, "file" : "whale-81" },
+		{ "group" : 0, "frame" : 25, "file" : "whale-84" }
+    ]
+}

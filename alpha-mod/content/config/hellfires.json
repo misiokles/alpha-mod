@@ -1,0 +1,23 @@
+{
+"hellfires" : {
+	"name" : "Hellfire",
+	"handler":"static",
+		"types" : {
+			"hellfires": {
+			"tags":[ "lava", "dirt", "subterra" ],
+			"zIndex": 100,
+				"templates" : {				
+					"hellfire1" : { "animation" : "hellfire1", "mask" : [ "V", "B" ], "allowedTerrains": [ "lava", "dirt" ] },
+					"hellfire2" : { "animation" : "hellfire2", "mask" : [ "V", "B" ], "allowedTerrains": [ "lava" ] },
+					"hellfire3" : { "animation" : "hellfire3", "mask" : [ "V", "B" ], "allowedTerrains": [ "subterra" ] }
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	

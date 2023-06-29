@@ -1,0 +1,27 @@
+{
+	"name" : "Alpha MOD",
+	"description" : "Transparent objects for Heroes III",
+	"author" : "Itsjustme, totkotoriy, avatar",
+	"contact" : "http://heroescommunity.com/viewthread.php3?TID=34570",
+	"version" : "1.0",
+	"modType" : "Graphical",
+	"objects" :
+    [ 
+		"config/tornados",
+		"config/hellfires",
+		"config/meteors",
+		"config/sauroneye",
+		"config/boom",
+		"config/smoke",
+		"config/watrfll",
+		"config/whale"
+	],
+	"changelog" :
+    {
+		"1.0" : [ "Initial release" ]
+    },
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	}
+}

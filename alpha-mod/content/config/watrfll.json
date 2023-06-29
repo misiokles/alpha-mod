@@ -1,0 +1,21 @@
+{
+"aowaterfall" : {
+	"name" : "Waterfall",
+	"handler":"static",
+		"types" : {
+			"aowaterfall": {
+			"zIndex": 100,
+			"tags":[ "grass" ],
+				"templates" : {				
+					"wtrfll" : { "animation" : "wtrfll", "mask" : [ "VVV", "BBB", "VBV" ], "allowedTerrains": [ "grass" ] }
+				}
+			}	
+		}
+	}
+}
+	
+	
+	
+
+
+	
